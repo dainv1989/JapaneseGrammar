@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorFormText">#0066ff</color>
+    <color name="colorPronText">#006600</color>
+    <color name="colorTranText">#cc6600</color>
+    
+    <color name="lighGreen">#50D050</color>
+    <color name="grey">#c2c2c2</color>
+
+    <color name="colorBlueTran_80">#cc0066ff</color>
+    <color name="colorBlackTran_80">#cc000000</color>
+    <color name="colorBlackTran_50">#80000000</color>
+    <color name="colorWhiteTran_50">#80ffffff</color>
+</resources>

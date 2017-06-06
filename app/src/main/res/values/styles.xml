@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!--style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"-->
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- remove shadow below action bar for Android version < 5.0 -->
+        <item name="android:windowContentOverlay">@null</item>
+
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <!-- support library compatibility -->
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="ThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/lighGreen</item>
+        <item name="colorPrimaryDark">@color/lighGreen</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <!--item name="android:background">@drawable/bk_pattern</item-->
+        <item name="android:logo">@drawable/pear</item>
+
+        <!-- support library compatibility -->
+        <!--item name="background">@drawable/bk_pattern</item-->
+
+        <!-- remove shadow below actionbar -->
+        <item name="elevation">0dp</item>
+    </style>
+</resources>

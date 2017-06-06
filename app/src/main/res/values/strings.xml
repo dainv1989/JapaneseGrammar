@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Japanese Grammar</string>
+    <string name="app_name_vi">Ngữ pháp tiếng Nhật</string>
+    <string name="app_creator">Dai Nguyen 2016</string>
+    <string name="app_init_wait">đang khởi tạo, vui lòng chờ tí ...</string>
+    <string name="app_init_done">xong rồi, hehe</string>
+    <string name="app_share">Share to</string>
+    <string name="app_share_text">ứng dụng học ngữ pháp hay quá ^^</string>
+
+    <string name="exp_item_kanji">私は日本人です。</string>
+    <string name="exp_item_romaji">watashi wa nihon jin desu.</string>
+    <string name="exp_item_meaning">tôi là người Nhật.</string>
+
+    <string name="example_hdr">Ví dụ</string>
+    <string name="form_hdr">Mẫu câu</string>
+    <string name="explain_hdr">Giải thích</string>
+
+    <string name="grm_form">konnichiwa</string>
+    <string name="grm_desc">Đang cập nhật</string>
+    <string name="grm_example">Đang cập nhật</string>
+
+    <string name="hint_search">Search</string>
+    <string name="search_result_summary">10 records found</string>
+
+    <string name="err_access_db">Access database error</string>
+
+    <!-- &#35; = '#' character. See reference below
+         http://www.degraeve.com/reference/specialcharacters.php -->
+    <string name="htmlColorFormText">&#35;0066ff</string>
+    <string name="htmlColorPronText">&#35;000000</string>
+    <string name="htmlColorTranText">&#35;006600</string>
+</resources>

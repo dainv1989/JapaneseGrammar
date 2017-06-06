@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bk_pattern"
+    tools:context="com.dainv.jpgrammar.GrammarItemActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/small_padding"
+            android:text="@string/form_hdr"
+            android:background="@android:color/holo_blue_dark"
+            android:textColor="@android:color/primary_text_dark"/>
+
+        <TextView
+            android:id="@+id/grm_item_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/large_padding"
+            android:paddingTop="@dimen/large_padding"
+            android:lineSpacingMultiplier="1.5"
+            android:text="@string/grm_form"
+            android:textColor="@android:color/black"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/small_padding"
+            android:background="@android:color/holo_blue_dark"
+            android:text="@string/explain_hdr"
+            android:textColor="@android:color/primary_text_dark"/>
+
+        <TextView
+            android:id="@+id/grm_item_desc"
+            android:layout_below="@id/grm_item_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/large_padding"
+            android:paddingTop="@dimen/large_padding"
+            android:lineSpacingMultiplier="1.5"
+            android:text="@string/grm_desc"
+            android:textColor="@android:color/black"/>
+
+        <TextView
+            android:id="@+id/grm_item_example_hdr"
+            android:layout_below="@id/grm_item_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/small_padding"
+            android:text="@string/example_hdr"
+            android:background="@android:color/holo_blue_dark"
+            android:textColor="@android:color/primary_text_dark"/>
+
+        <TextView
+            android:id="@+id/grm_item_example"
+            android:layout_below="@id/grm_item_example_hdr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/large_padding"
+            android:paddingTop="@dimen/large_padding"
+            android:lineSpacingMultiplier="1.5"
+            android:text="@string/grm_example"
+            android:textColor="@android:color/black">
+        </TextView>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,412 @@
+﻿1,"私は日本の料理が好きです。","Watashi wa Nihon no ryōri ga sukidesu.","Tôi thích món ăn Nhật",1
+2,"山田さんは日本語が上手です。","Yamada-san wa nihongo ga jōzudesu.","Anh Yamada giỏi tiếng Nhật",1
+3,"この家はドアが大きいです 。","Kono ie wa doa ga ōkii desu","Căn nhà này có cửa lớn",1
+
+4,"山田さんは本を読むことが好きです。私も同じです","Yamada-san wa hon o yomu koto ga sukidesu. Watashi mo onajidesu","Anh yamada thích đọc sách. Tôi cũng vậy.",2
+5,"昨日忙しくて寝る時間もありませんでした。","Kinō isogashikute nerujikan mo arimasendeshita.","Ngày hôm qua bận quá, không có cả thời gian để ngủ.",2
+6,"リンゴを食べます。梨も食べます。","Ringo wo tabemasu. Nashi mo tabemasu.","Tôi ăn táo. Tôi cũng ăn cả lê.",2
+7,"名声がほしいです。お金もほしいです。","Meisei ga hoshii desu. Okane mo hoshii desu.","Tôi muốn có danh tiếng. Tôi cũng muốn có cả tiền.",2,22
+
+8,"この仕事は明日で終りますか？","Kono shigoto wa ashita de owarimasu ka","Công việc này sáng mai có xong không?",3
+9,"はしで食べます。","Hashi de tabemasu.","Tôi ăn bằng đũa",3
+10,"日本語でレポートを書きます。","Nihongo de repōto o kakimasu.","Tôi viết báo cáo bằng tiếng Nhật",3
+11,"駅で新聞を買います。","Eki de shinbun o kaimasu","Tôi mua báo ở nhà ga",3
+
+12,"明日、旅行に行きます。","Ashita, ryokō ni ikimasu.","Ngày mai tôi sẽ đi du lịch",4
+13,"午後６時に帰ります。","Gogo roku-ji ni kaerimasu.","6 giờ chiều tôi sẽ về",4
+14,"彼は日本へ留学しました。","Kare wa Nihon e ryūgaku shimashita.","Cậu ấy đã đi du học Nhật Bản.",4
+
+15,"２月１日に日本へ行きました。","Nigatsu tsuitachi ni Nihon e ikimashita","Tôi ( đã) đến Nhật vào ngày 1 tháng 2.",5
+16,"週末に友達の家へ行きます。","Shūmatsu ni tomodachi no ie e ikimasu.","Cuối tuần tôi sẽ đi đến nhà của bạn",5
+
+17,"水を飲みます。","Mizu o nomimasu.","Tôi uống nước",6
+18,"日本語を勉強します。","Nihongo o benkyō shimasu.","Tôi học tiếng Nhật",6
+19,"音楽を聞きます.","Ongaku o kikimasu.","Tôi nghe nhạc",6
+
+20,"公園に友達と散歩しました。","Kōen ni tomodachi to sanpo shimashita.","Tôi đã đi dạo với bạn tới công viên",7
+21,"同僚とアメリカへ出張します。","Dōryō to amerika e shutchō shimasu.","Tôi sẽ đi công tác ở Mỹ cùng với đồng nghiệp",7
+
+22,"山田さんは木村さんに花をあげました。","amada-san wa Kimura-san ni hana o agemashita.","Anh Yamada tặng hoc cho chị Kimura",8
+23,"マリアさんに本を貸しました。","Maria-san ni hon o kashimashita.","Tôi cho chị Maria mượn sách",8
+24,"みみちゃんに英語を教えます。","Mi mi-chan ni eigo o oshiemasu.","Tôi dạy bé Mimi tiếng Anh",8
+25,"会社に電話をかけます。","Kaisha ni denwa o kakemasu.","Tôi gọi điện thoại đến công ty",8
+26,"木村さんは山田さんに花をもらいました。","Kimura-san wa Yamada-san ni hana o moraimashita.","Chị Kimura nhận hoa từ anh Yamada.",8
+27,"マリアさんにざっしを借りました。","Maria-san ni zasshi o karimashita.","Tôi mượn cuốn tạp chí từ chị Maria.",8
+28,"チンさんに中国語を習います。","Chin-san ni chūgokugo o naraimasu.","Tôi học tiếng Trung Quốc từ anh Chin",8
+
+29,"野菜と肉を食べます。","Yasai to niku o tabemasu.","Tôi ăn rau và thịt.",9
+30,"休みの日は土曜日と日曜日です。","Yasumi no hi wa doyōbi to nichiyōbidesu.","Ngày nghỉ là ngày thứ bảy và chủ nhật.",9
+
+31,"タイ料理はおいしいですが、辛いです。","Tai ryōri wa oishīdesuga, karaidesu.","Món Thái ngon nhưng cay.",10
+32,"雨が降っていますが，テストがありますので学校へ行きます．","Ame ga futte imasu ga, tesuto ga arimasu node, gakkou e ikimasu.","Trời đang mưa nhưng do có bài kiểm tra nên tôi tới trường.",10
+33,"しつれいですが、お名前は何ですか。","Shitsurei desuga, onamae wa nandesu ka?","Xin lỗi, anh/chị tên là gì ạ?",10
+34,"すみませんが、手伝ってもらえませんか。","Sumimasen ga, tetsudatte moraemasen ka?","Xin lỗi, bạn có thể giúp tôi được không?",10
+
+35,"９時から午後５時まで働きます。","Ku-ji kara gogo go-ji made hatarakimasu.","Tôi làm việc từ 8h đến 5h chiều.",11
+36,"大阪から東京まで新幹線で行くと３時間かかります。","Ōsaka kara Tōkyō made shinkansen de iku to san-jikan kakarimasu.","Nếu đi từ Tokyo đến Osaka bằng tàu siêu tốc shinkansen thì mất 3 tiếng đồng hồ.",11
+37,"８時から働きます。","Hachi-ji kara hatarakimasu.","Tôi làm việc từ 8 giờ.",11
+38,"昼休みは12時からです。","Hiruyasumi wa juuichi-ji sanjuppun karadesu.","Giờ nghỉ trưa là từ 12 giờ.",11
+
+39,"私の日本語はあまり上手ではありません。","Watashi no nihongo wa amari jōzude wa arimasen.","Tiếng Nhật của tôi không giỏi lắm.",12
+40,"今日の天気はあまり寒くないです。","Kyō no tenki wa amari samukunaidesu.","Thời tiết hôm nay không lạnh lắm.",12
+41,"英語があまり分かりません。","Eigo ga amari wakarimasen.","Tiếng Anh thì không hiểu lắm.",12
+
+42,"お金が全然ありません。","Okane ga zenzen arimasen.","Tôi hoàn toàn không có tiền.",13
+43,"全然分かりません。","Zenzen wakarimasen","Tôi hoàn toàn không hiểu.",13
+44,"この本は全然面白くないです。","Kono hon wa zenzen omoshirokunai desu.","Cuốn sách này hoàn toàn không thú vị.",13
+
+45,"なかなか寝られませんでした。","Nakanaka neraremasen deshita.","Mãi mà không ngủ được.",14
+46,"この問題はなかなか解けなかった。","Kono mondai wa nakanaka tokenakatta.","Bài tập này mãi mà không giải được.",14
+
+47,"いっしょに食べませんか。","Issho ni tabemasen ka?","Anh/ chị đi ăn cùng tôi không?",15
+48,"いっしょに旅行へ行きませんか。","Issho ni ryokō e ikimasen ka?","Anh/chị đi du lịch cùng tôi không?",15
+49,"カラオケに行きませんか 。","Karaoke e ikimasen ka?","Bạn đi hát karaoke với tớ không?",15
+
+50,"部屋にテレビがあります。","Heya ni terebi ga arimasu.","Trong phòng có cái ti vi.",16
+51,"庭には大きな木があります。","Niwa ni wa ookina ki ga arimasu.","Trong vườn thì có cái cây to.",16
+
+52,"いけにカエルがいます。","Ike ni kaeru ga imasu.","Trong ao có con ếch.",17
+53,"芝生に小鳥が三匹います。","Shibafu ni kotori ga sanbiki imasu.","Ở bãi có có 3 con chim nhỏ.",17
+54,"内は娘がいます。","Uchi wa musume ga imasu.","Nhà tôi thì có con gái.",17
+
+55,"みかんを４個買いました。","Mikan o yonko kaimashita.","Tôi ( đã) mua 4 quả cam",18
+56,"外国人社員は二人います。","Gaikokujin shain wa futari imasu.","Nhân viên người nước ngoài thì có hai người.",18
+
+57,"私は一カ月に２回映画を見ます。","Watashi wa ikkagetsu ni ni-kai eiga o mimasu.","Tôi xem phim 2 lần 1 tháng.",19
+58,"一週間に４回日本語を勉強します。","Isshūkan ni yon-kai nihongo o benkyō shimasu.","Tôi học tiếng nhật 4 ngày 1 tuần.",19
+
+59,"ちょっと休みましょう。","Chotto yasumimashou.","Chúng ta nghỉ chút nào.",20
+60,"では、終わりましょう。","Dewa, owarimashou.","Vậy thì chúng ta kết thúc thôi",20
+
+61,"重い荷物ですね。持ちましょうか？","Omoi nimotsu desu ne. Mochimashou ka?","Hành lý nặng nhỉ. Để tôi mang giúp cho bạn nhé?",21
+
+62,"私はお金がほしいです","Watashi wa okane ga hoshii desu","Tôi muốn có tiền",22
+63,"私は友達が欲しいです","Watashi wa tomodachi ga hoshii desu","Tôi muốn có bạn bè",22
+64,"今、何が一番欲しいですか。","Ima, nani ga ichiban hoshii desu ka?","Bây giờ bạn muốn có cái gì nhất?",22
+65,"子供がほしいですか。
+いいえ、欲しいくないです。","Kodomo ga hoshīdesu ka? 
+Īe, hoshī kunaidesu.","Anh muốn có con không? 
+Không, tôi không muốn.",22
+
+66,"日本へ行きたいです。","Nihon e ikitaidesu.","Tôi muốn đi Nhật.",23
+67,"寿司が食べたいです。","Sushi ga tabetaidesu.","Tôi muốn ăn sushi.",23
+68,"歯が痛いですから、何も食べたくないです。","Ha ga itai desu kara, nani mo tabetakunai desu.","Vì đau răng nên tôi không muốn ăn gì.",23
+
+69,"スーパーへ買い物に行きます","Sūpā e kaimono ni ikimasu","Tôi đi siêu thị để mua sắm.",24
+70,"昼ごはんを食べに行きます。","Hirugohan wo tabe ni ikimasu.","Tôi đi [để] ăn trưa.",24
+71,"先生、資料をもらいに来ました。","Sensei, shiryou wo morai ni kimashita.","Thưa cô, em tới đây để nhận tài liệu ạ.",24
+
+72,"すみませんが、この漢字の読み方を教えてください。","Sumimasen ga, kono kanji no yomikata o oshietekudasai.","Xin lỗi, hãy chỉ cho tôi cách đọc chữ kanji này.",25
+73,"ここに住所と名前を書いてください。","Koko ni jūsho to namae o kaite kudasai.","Xin hãy viết địa chỉ và tên vào chỗ này.",25
+74,"ぜひ遊びに来てください。","Zehi asobi ni kite kudasai.","Nhất định đến chỗ tôi chơi nhé.",25
+
+75,"私は元気ですから、心配しないでください。","Watashi wa genki desukara, shinpai shinaide kudasai","Vì tôi khỏe nên đừng lo cho tôi.",26
+76,"ここで写真を撮らないでください。","Koko de shashin o toranaide kudasai.","Xin đừng chụp ảnh ở đây.",26
+77,"病院でタバコを吸わないでください。","Byōin de tabako o suwanaide kudasai.","Xin đừng hút thuốc trong bệnh viện.",26
+
+78,"本を読んでもいいです。","Hon o yonde mo īdesu.","Được phép đọc sách ( ở đây ).",27
+79,"タバコを吸ってもいいですか。","Tabako o sutte mo īdesu ka?","Tôi hút thuốc có được không?",27
+80,"この本をもらってもいいですか。","Kono hon o moratte mo īdesu ka?","Tôi lấy cuốn sách này có được không?",27
+81,"ええ、いいですよ。どうぞ。","Ee, īdesu yo. Dōzo.","Vâng, được. Xin mời",27
+82,"すみません。ちょっと・・・","Sumimasen. Chotto....","Xin lỗi. Tôi e rằng không được",27
+
+83,"ここで車に止めてはいけません。","Koko de kuruma ni tomete wa ikemasen. ","Không được đậu xe ở đây. ",28
+
+84,"明日来なくてもいいです。","Ashita konakute mo īdesu.","Ngày mai anh không đến cũng được.",29
+85,"しなくてもいいです。","Shinakute mo īdesu.","Không làm cũng được.",29
+86,"急がなくてもいいです。","Isoganakute mo īdesu.","Bạn không cần vội đâu.",29
+
+87,"薬を飲まなければなりません。","Kusuri o nomanakereba narimasen.","Tôi phải uống thuốc.",30
+88,"毎日一時間日本語を勉強しなければなりません。","Mainichi ichijikan nihongo o benkyō shinakereba narimasen.","Mỗi ngày phải học tiếng Nhật 1 tiếng.",30
+
+89,"留学するなら、日本語を勉強しないといけない。",,"Nếu định du học thì phải học tiếng Nhật.",31
+90,"授業に出ないといけませんよ。","Jugyou ni denai to ikemasen yo.","Không tới giờ học là không được đâu.
+(Phải tới lớp học đấy)",31
+
+91,"10時前に寝なくちゃいけない。","Juuji mae ni nenakucha ikenai.","Phải ngủ trước 10 giờ.",32
+92,"毎日勉強しなくちゃいけない。","Mainichi benkyō shinakucha ikenai.","Phải học bài mỗi ngày.",32
+
+93,"友達とだけ話します。","Tomodachi to dake hanashimasu.","Tôi chỉ nói chuyện với bạn bè.",33
+94,"みかんだけ買いました。","Mikan dake kaimashita.","Tôi chỉ mua có quýt thôi.",33
+95,"このクラスはベトナム人学生だけです。","Kono kurasu wa betonamu jin dake desu.","Lớp học này chỉ (toàn) học sinh Việt Nam.",33
+
+96,"時間がないから本をあまり読まない。","Jikan ga nai kara hon wo amari yomanai.","Vì không có thời gian nên tôi không đọc sách mấy.",34
+97,"雨が降りましたから、道は滑りますよ。","Ame ga furimashita kara, michi wa suberimasu yo.","Vì trời đã mưa nên đường sẽ trơn trượt đấy.",34
+
+98,"私は音楽を聞くのがすきです 。","Watashi wa ongaku o kiku no ga sukidesu.","Tôi thích nghe nhạc.",35
+99,"彼女は日本語を話すのが上手です。 ","Kanojo wa nihongo o hanasu no ga jōzudesu.","Cô ấy nói tiếng Nhật giỏi.",35
+100,"私は犬を飼うのが好きです。","Watashi wa inu o kau no ga sukidesu.","Tôi thích nuôi chó.",35
+101,"日本人は歩くのが速いです。 ","Nihonjin wa aruku no ga hayaidesu.","Người Nhật đi bộ nhanh.",35
+
+102,"薬を買うのを忘れました。 ","Kusuri o kau no o wasuremashita.","Tôi quên mua thuốc.",36
+103,"大声で話すのをやめて！","Oogoe de hanasu no wo yamete!","Thôi nói chuyện to tiếng đi!",36
+
+104,"一番雨が多いのは6月です。","Ichiban ame ga ōi no wa rokugatsu desu.","Mưa nhiều nhất là tháng 6.",37
+105,"いっしょに食事するのは楽しいです。","Issho ni shokuji suru no wa tanoshīdesu.","Cùng nhau ăn uống thì vui.",37
+106,"ビールを飲むのはどう？","Biiru wo nomu no wa dou?","Uống bia thì thế nào? (rủ rê)",37
+
+107,"もう宿題をしましたか。","Mō shukudai o shimashita ka?","Bạn đã làm bài tập xong chưa?",38
+108,"もう晩御飯を食べましたか。 ","Mō ban gohan o tabemashita ka?","Bạn đã ăn tối chưa?",38
+
+109,"ご飯を食べましたか。
+いいえ、まだ食べていません。","Gohan o tabemashita ka? 
+Īe, mada tabete imasen.","Bạn ăn cơm chưa? 
+Chưa, tôi chưa ăn",39
+110,"風邪はまだよくなっていません。","Kaze wa mada yoku natte imasen.","Bệnh cảm vẫn chưa khỏi.",39
+
+111,"日本はベトナムより寒いです。","Nihon wa Betonamu yori samui desu.","Nhật Bản lạnh hơn Việt Nam.",40
+112,"今年の冬は昨年よりも寒い。","Kotoshi no fuyu wa sakunen yori mo samui.","Mùa đông năm nay lạnh hơn mùa đông năm ngoái.",40
+
+113,"ベトナムは日本ほど寒くない。","Betonamu wa Nihon hodo samukunai.","Việt Nam không lạnh bằng Nhật Bản.",41
+114,"山田さんは田中さんほど英語を話すのが上手ではありません。","Yamada-san wa Tanaka-san hodo eigo o hanasu no ga jōzude wa arimasen.","Anh Yamada nói tiếng Anh không giỏi bằng Anh Tanaka",41
+
+115,"この本はあの本と出版社が同じだ。","Kono hon hā no hon to shubbansha ga onajida.","Cuốn sách này cùng nhà xuất bản với cuốn sách kia.",42
+116,"あの人が食べているのと同じものをください。","Ano hito ga tabete iru no to onaji mono o kudasai.","Cho tôi món giống như món của người kia đang ăn.",42
+117,"私は彼と同じクラスです。","Watashi wa kare to onaji kurasu desu.","Tôi cùng lớp với anh ấy.",42
+
+118,"季節の中で、春が一番好きです。","Kisetsunonakade, haru ga ichiban sukidesu.","Trong các mùa trong năm, tôi thích nhất là mùa xuân.",43
+119,"三人の中で、僕は一番イケメンです。","Sannin no nakade, boku wa ichiban ikemen desu.","Trong số ba người thì tôi đẹp trai nhất.",43
+
+120,"暑くなってきましたね。","Atsuku natte kimashitane.","Trời đã nóng lên rồi nhỉ.",44
+121,"十一月になると、日本は寒くなります。","Jūichi-gatsu ni naru to, Nihon wa samuku narimasu.","Sang tháng 11 là nước Nhật trở lạnh.",44
+122,"彼女はだいぶきれいになりましたね。","Kanojo wa daibu kireini narimashita ne.","Cô ấy trở nên xinh đẹp hơn hẳn rồi nhỉ.",44
+
+123,"このスマホの色が好きじゃないから、安くても買わないよ。","Kono sumaho no iro ga sukijanai kara, yasukute mo kawanai yo.","Tôi không thích màu cái điện thoại thông minh này nên rẻ cũng không mua đâu.",45
+124,"どんなに成績が良くても自慢してはいけません。","Don'nani seiseki ga yokute mo jiman shite wa ikemasen.","Cho dù thành tích có tốt như thế nào cũng không được tự kiêu.",45
+125,"大変でも受験勉強をがんばりましょう。","Taihen demo juken benkyō o ganbarimashou.","Cho dù vất vả chúng ta hãy cùng cố gắng ôn thi.",45
+
+126,"昨日、友達と歌を歌ったりビールを飲んだりして楽しかった。","Kinō, tomodachi to uta o utattari bīru o non dari shite tanoshikatta.","Hôm qua, tôi lúc thì hát lúc thì uống bia với bạn bè, thật là vui.",46
+127,"雨が降ったり止んだりしています。","Ame ga futtari yan dari shite imasu.","Mưa đang lúc rơi lúc tạnh.",46
+
+128,"日本語を勉強している。","Nihongo o benkyō shite iru.","Tôi đang học tiếng Nhật.",47
+129,"私はベトナムに住んでいます。","Watashi wa Betonamu ni sunde imasu.","Tôi sống ở Việt Nam.",47
+130,"姉は工場で働いています。","Ane wa kōjō de hataraite imasu.","Chị gái tôi (đang) làm việc ở nhà máy.",47
+
+131,"時々水泳に行くことがある。","Tokidoki suiei ni iku koto ga aru.","Thỉnh thoảng tôi có đi bơi.",48
+132,"時間があれば本を読むことがある。","Jikan ga areba hon o yomu koto ga aru.","Nếu có thời gian thì cũng có khi tôi đọc sách.",48
+
+133,"朝ごはんを食べないことがある。","Asa gohan o tabenai koto ga aru.","Có lúc tôi không ăn sáng.",49
+
+134,"刺身を食べたことがある。","Sashimi o tabeta koto ga aru.","Tôi đã từng ăn món cá sống sashimi.",50
+135,"日本へ行ったことがありますか。","Nihon e itta koto ga arimasu ka? ","Bạn đến Nhật Bản bao giờ chưa?",50
+
+136,"かばんの中にノートやペンなどたくさんのものが入っています。","Kaban no naka ni nōto ya pen nado takusan no mono ga haitte imasu.","Trong cặp đang có rất nhiều thứ như vở viết và bút.",51
+
+137,"風邪を引いたので学校を休んだ。","Kaze o hiitanode gakkō o yasunda.","Vì bị cảm nên tôi nghỉ học.",52
+
+138,"駅のまえに大きなマンションが建った。","Eki no mae ni ōkina manshon ga tatta","Phía trước nhà ga đã mọc lên một ngôi nhà chung cư lớn.",53
+139,"寝る前に音楽を聞きます。","Nerumae ni ongaku o kikimasu.","Trước khi đi ngủ tôi thường nghe nhạc.",53
+140,"結婚するまえに、一度ゆっくり仲間と旅行してみたい。","Kekkon suru mae ni, ichido yukkuri nakama to ryokō shite mitai.","Trước khi lập gia đình, tôi muốn cùng đám bạn thân đi du lịch thoải mái một lần.",53
+
+141,"夏休みになってから一度も学校に行っていない。","Natsuyasumi ni natte kara ichido mo gakkō ni itte inai.","Từ khi nghỉ hè tôi chưa lần nào đến trường.",54
+142,"授業が終わってから散歩しませんか。","Jugyō ga owatte kara sanpo shimasen ka.","Sau khi giờ học kết thúc bạn đi dạo cùng tôi không?",54
+
+143,"この本は見たあとで、貸してね。","Kono hon wa mita ato de, kashite ne.","Sách này đọc xong thì cho tớ mượn nhé.",55
+144,"仕事が終わったあとで、カラオケにいきませんか。","Shigoto ga owatta ato de, karaoke ni ikimasen ka?","Sau khi xong việc thì đi hát karaoke không?",55
+
+145,"暇なとき何をする。","Himana toki nani o suru.","Lúc rảnh bạn làm gì?",56
+146,"日本へ行くとき飛行機を使った。","Nihon e iku toki hikōki o tsukatta.","Lúc đi Nhật tôi dùng máy bay.",56
+
+147,"それはだめでしょう？","Việc đó đâu có được đúng không?",57
+148,"図書館で大声を出してはいけないでしょう？","Toshokan de ōgoe o dashite wa ikenaideshou?","Ở thư viện đâu có được to tiếng đúng không?",57
+
+149,"多分その本はおもしろいでしょう","Tabun sono hon wa omoshiroideshou","Có lẽ là sách đó thú vị",58
+
+150,"今日雨が降らないと思います。","Kyō ame ga furanai to omoimasu.","Tôi nghĩ là hôm nay trời sẽ không mưa.",59
+151,"先生は来ると思います。","Sensei wa kuru to omoimasu.","Tôi nghĩ là thầy sẽ đến.",59
+152,"ええ、私もそう思います。","Ee, watashi mo sō omoimasu.","Ừ, tôi cũng nghĩ thế",59
+153,"私はそう思いません。","Watashi wa sō omoimasen.","Tôi không nghĩ thế",59
+
+154,"日本人はご飯を食べるまえに「いただきます」といいます。","Nihonjin wa gohan o taberu mae ni "itadakimasu" to īmasu.","Người Nhật trước khi ăn thì thường nói 'itadakimasu' (tôi xin phép ăn).",60
+155,"彼は「大学に行きたい」と言いました。","Kare wa 'daigaku ni ikitai' to iimashita.","Nó đã nói là 'tôi muốn đi đại học'.",60
+
+156,"お腹がすいたし、のどが渇いたし、何か食べたい。","Onakagasuita shi, nodo ga kawaitashi, nanika tabetai.","Vừa đói vừa khát nên tôi muốn ăn thứ gì đó.",61
+157,"このシャツは色もきれいですし、デザインもいいですね。","Kono shatsu wa iro mo kireidesu shi, dezain mo īdesu ne.","Cái áo này màu đẹp và thiết kế đẹp.",61
+
+158,"天気予報によると、明日は晴れるそうです。","Tenkiyohō ni yoru to, ashitahahareru-sōdesu.","Theo dự báo thời tiết thì ngày mai trời đẹp.",62
+159,"彼の話によれば、この茶碗は高価な骨董品だそうだ。","Kare no hanashi ni yoreba, kono chawan wa koukana kottōhin da sōda.","Theo lời anh ấy thì cái chén này là thứ đồ cổ rất đắt tiền.",62
+
+160,"今年の冬は暖かそうです。","Kotoshi no fuyu wa attakasōdesu.","Mùa đông năm nay có vẻ sẽ ấm.",63
+
+161,"馬刺しを食べてみたい。","Basashi o tabete mitai.","Tôi muốn ăn thử món thịt ngựa sống.",64
+162,"最近話題になっている店へいってみました。","Saikin wadai ni natte iru mise e itte mimashita.","Tôi đã thử đến cửa hàng mà dạo này người ta đang bàn tán.",64
+162,"バイクをやめて、自転車通勤をしてみることにした。","Baiku o yamete, jitensha tsūkin o shite miru koto ni shita.","Tôi quyết định bỏ xe máy và thử đi làm bằng xe đạp.",64
+
+163,"酒を飲むと顔が赤くなる。","Sake o nomu to kao ga akaku naru.","Uống rượu thì mặt sẽ đỏ",65
+164,"まっすぐ行くと右に大きな建物が見えます。","Massugu iku to migi ni ōkina tatemono ga miemasu.","Đi thẳng thì sẽ nhìn thấy tòa nhà lớn ở bên phải.",65
+
+165,"もし、あまり高かったら誰も買わないでしょう。","Moshi, amari takakattara dare mo kawanaideshou.","Nếu mà đắt quá thì chắc chẳng ai mua đâu.",66
+166,"お酒を飲んだら絶対に運転はするな。","Osake wo nondara zettai ni unten wa suru na.","Sau khi đã uống rượu thì tuyệt đối đừng có lái xe.",66
+
+167,"お金のことなら心配しなくていいですよ。何とかなりますから。","Okane no kotonara shinpai shinakute īdesu yo. Nantoka narimasukara.","Nếu là chuyện tiền nong thì không phải lo đâu. Thế nào chả có cách.",67
+168,"日本語を勉強するならSaromalangをよく見たほうがいいよ。","Nihongo o benkyō surunara Saromalang o yoku mita hō ga ī yo.","Nếu định học tiếng Nhật thì nên thường xuyên xem Saromalang.",67
+
+169,"10を2で割れば5になる。","10 o 2 de wareba 5 ni naru.","Nếu chia 10 cho 2 thì sẽ thành 5.",68
+170,"年をとれば身体が弱くなる。","Toshi o toreba shintai ga yowaku naru.","Nếu già đi thì thân thể sẽ yếu đi.",68
+171,"誰でもほめられればうれしい。","Dare demo homerarereba ureshī.","Bất cứ ai nếu được khen sẽ vui sướng.",68
+
+172,"食べれば食べるほど太る。","Tabereba taberu hodo futoru.","Càng ăn sẽ càng mập.",69
+173,"この説明書は、読めば読むほど分からなくなる。","Kono setsumeisho wa, yomeba yomu hodo wakaranaku naru.","Bảng hướng dẫn này càng đọc càng không hiểu.",69
+
+174,"子供はなんでも知りたがる。","Kodomo wa nan demo shirita garu.","Trẻ em thì chuyện gì cũng muốn biết.",70
+175,"両親は海外旅行に行きたがっている。","Ryōshin wa gaigairyokō ni ikita gatte iru.","Ba mẹ tôi đang có vẻ muốn đi du lịch nước ngoài.",70
+
+176,"彼はもう寝てしまったのかもしれない。","Kare wa mō nete shimatta no kamo shirenai.","Có thể là anh ấy đã ngủ mất rồi.",71
+177,"私が間違っているかもしれません。","Watashi ga machigatte iru kamo shiremasen.","Có thể là tôi đã nhầm.",71
+178,"雨が降るかもしれない。","Amegafuru kamo shirenai.","Có thể là trời sẽ mưa.",71
+
+179,"明日天気がいいでしょう。","Ashita tenki ga īdeshou.","Ngày mai có lẽ trời sẽ đẹp.",72
+180,"6時までに彼は帰ってくるでしょう。","Rokuji made ni kare wa kaette kurudeshou.","Có lẽ tới 6 giờ anh ấy sẽ về tới",72
+
+181,"朝はコーヒーしか飲まない。","Asa wa kōhī shika nomanai.","Buổi sáng tôi chỉ uống cà phê mà thôi.",73
+182,"10分しか待てません。","Juppun shika matemasen.","Tôi chỉ có thể đợi 10 phút mà thôi",73
+183,"こんなことは友達にしか話せません。","Konna koto wa tomodachi ni shika hanasemasen.","Những chuyện như thế này chỉ có thể nói với bạn bè mà thôi.",73
+
+184,"日本へ行く前に日本語を習っておくつもりです。","Nihon e iku mae ni nihongo o naratte oku tsumoridesu.","Tôi định học sẵn tiếng Nhật trước khi đi Nhật.",74
+185,"その書類はあとで見ますから、そこに置いておいて下さい。","Sono shorui wa ato de mimasukara, soko ni oite oite kudasai.","Tài liệu đó tôi sẽ xem sau nên anh hãy để sẵn ở đó.",74
+186,"お母さんに話しとくね。",,"Anh sẽ nói chuyện trước với mẹ nhé.",74
+
+187,"雪が降ったようです。",,"Có vẻ như tuyết đã rơi.",75
+
+188,"日本に留学しようと思う。","Nihon ni ryūgaku shiyou to omou.","Tôi đang định đi nhật du học",76
+189,"今から書店へ行こうと思う。","Ima kara shoten e ikou to omou.","Tôi định đi nhà sách bây giờ.",76
+
+190,"来年ヨーロッパへ旅行するつもりです。","Rainen yōroppa e ryokō suru tsumoridesu.","Sang năm tôi định đi du lịch Châu Âu.",77
+191,"タバコは、もうすわないつもりです。","Tabako wa, mō suwanai tsumoridesu.","Thuốc lá thì tôi định thôi không hút nữa.",77
+192,"今月に仕事をやめるつもりです。","Kongetsu ni shigoto wo yameru tsumoridesu.","Trong tháng này tôi định thôi việc.",77
+
+193,"来年日本へ行く予定です。","Rainen Nihon e iku yoteidesu.","Năm sau tôi dự định đi Nhật.",78
+194,"明日に書類を送付する予定です。","Ashita ni shorui o sōfu suru yoteidesu.","Tôi dự định sẽ gửi tài liệu vào ngày mai.",78
+
+195,"キムさんに手伝ってあげました。","Kimu-san ni tetsudatte agemashita.","Tôi đã giúp anh Kim.",79
+196,"妹に写真を撮ってあげました。","Imōto ni shashin o totte agemashita.","Tôi chụp ảnh cho em gái.",79
+
+197,"鈴木さんは自転車を修理してくれました。","Suzuki-san wa jitensha o shūri shite kuremashita.","Anh Suzuki đã sửa xe đạp giúp cho tôi.",80
+198,"父は新しい自転車を買ってくれた。","Chichi wa atarashī jitensha o katte kureta.","Cha đã mua cho tôi một chiếc xe đạp mới.",80
+
+199,"私は日本人の友達に漢字を教えてもらった。","Watashi wa nihonjin no tomodachi ni kanji o oshiete moratta.","Tôi đã được bạn người Nhật dạy cho hán tự.",81
+200,"山田さんにお金を貸してもらった。","Yamada-san ni okane o kashite moratta.","Tôi đã được anh Yamamoto cho mượn tiền.",81
+
+201,"これを持っていただけませんか。","Kore o motte itadakemasen ka?","Bạn có thể cầm giúp tôi cái này được không?",82
+202,"日本語を教えていただけませんか。","Nihongo o oshiete itadakemasen ka?","Bạn có thể dạy cho tôi tiếng nhật được không?",82
+203,"この本を貸していただけませんか?","Kono hon o kashite itadakemasen ka?","Bạn có thể cho tôi mượn cuốn sách này được không?",82
+
+204,"彼は母に叱られました。","Kare wa haha ni shikara remashita.","Nó bị mẹ mắng.",83
+205,"妹にケーキを食べられた。","Imōto ni kēki o tabe raremashita.","Tôi bị em gái ăn mất cái bánh.",83
+
+206,"携帯電話を使うな。","Keitaidenwa o tsukau na.","Đừng có dùng điện thoại di động.",84
+207,"ここでタバコを吸うな。","Tabakowosuu na.","Đừng có hút thuốc ở đây.",84
+
+208,"私は寿司が食べられます。","Watashi wa sushi ga tabe raremasu.","Tôi có thể ăn được sushi.",85
+209,"私は漢字が読めます。","Watashi wa kanji ga yomemasu.","Tôi có thể viết được hán tự.",85
+210,"インド料理が作れます。","Indo ryōri ga tsukuremasu.","Tôi có thể nấu được món Ấn Độ.",85
+
+211,"母は私に部屋の掃除をさせた。","Haha wa watashi ni heya no sōji o sa seta.","Mẹ bắt tôi dọn dẹp phòng.",86
+212,"彼は子供にイギリスに留学させた。","Kare wa kodomo ni Igirisu ni ryūgaku sa seta.","Ông ấy cho con đi du học ở Anh.",86
+213,"大学に合格したことで両親を喜ばせた。","Daigaku ni gōkaku shita koto de ryōshin o yorokoba seta.","Việc tôi đậu đại học làm cha mẹ vui mừng.",86
+
+214,"昨日、母に3時間も勉強させられた。","Kinō, haha ni san-jikan mo benkyō sa se rareta.","Hôm qua, tôi đã bị mẹ bắt phải học tới đến 3 tiếng đồng hồ.",87
+215,"お酒を飲まされた。","Osake o nomasa reta.","Tôi đã bị ép buộc phải uống rượu.",87
+216,"山下さんは、毎日遅くまで残業させられているらしい。","Yamashita-san wa, mainichi osokumade zangyō sa se rarete iru rashī.","Hình như anh Yamashita ngày nào cũng bị buộc phải làm thêm đến khuya.",87
+
+217,"うるさい。静かにしなさい。","Urusai. Shizukani shi nasai.","Ồn quá. Im lặng đi!",88
+218,"早く寝なさい。","Hayaku ne nasai.","Đi ngủ đi.",88
+
+219,"学生でも入れます。","Gakusei demo iremasu.","Dù là học sinh vẫn vào được.",89
+220,"すぐ行っても電車に間に合わないだろう。","Sugu itte mo densha ni maniawanaidarou.","Cho dù có đi ngay thì có lẽ cũng không kịp tàu.",89
+
+221,"この宿題をしてしまったら、遊びにいける。","Kono shukudai o shite shimattara, asobi ni ikeru.","Làm xong bài tập này thì có thể đi chơi.",90
+222,"雨の中で歩いて、風邪をひいてしまった。","Ame no naka de aruite, kaze o hīte shimatta.","Tôi đi trong mưa và mắc cảm mất rồi..",90
+
+223,"私が合格するなんてうそみたい。","Watashi ga gōkaku suru nante uso mitai.","Chuyện tôi thi đậu cứ như là chuyện bịa.",91
+224,"その地方の方言に慣れるまでは、まるで外国語を聞いているみたいだった。","Sono chihō no hōgen ni nareru made wa, marude gaikoku-go o kiite iru mitaidatta.","Cho đến khi quen được tiếng địa phương vùng, đó, quả thật tôi cứ như là nghe tiếng nước ngoài.",91
+
+225,"よそ見をしながら運転するのは危険です。","Yosomi o shinagara unten suru no wa kikendesu.","Vừa lái xe vừa nhìn chỗ khác rất nguy hiểm.",92
+226,"音楽を聴きながら勉強する","Ongaku o kikinagara benkyō suru","Vừa nghe nhạc vừa học",92
+227,"ここでコーヒーでも飲みながら話しましょう。","Koko de kōhīde mo nominagara hanashimashou.","Chúng ta vừa cà phê vừa nói chuyện ở đây nào.",92
+
+228,"暖房は冬を快適に過ごすのに不可欠です。","Danbō wa fuyu o kaiteki ni sugosu no ni fukaketsudesu.","Máy sưởi là cái không thể thiếu để có thể sống dễ chịu qua mùa đông.",93
+229,"彼を説得するのには時間が必要です。","Kare o settoku suru no ni wa jikan ga hitsuyōdesu.","Cần có thời gian để thuyết phục anh ấy.",93
+230,"宿題するのに3時間がかかります。"."Shukudai suru no ni 3-jikan ga kakarimasu.","Mất hơn 3 tiếng để làm xong bài tập.",93
+
+231,"山田先生は来られるはずです。","Yamada sensei wa ko rareru hazudesu.","Thầy Yamda chắc chắn tới được.",94
+232,"彼は学生のはずだ。","Kare wa gakusei no hazuda","Cậu ấy chắc chắn là học sinh.",94
+233,"かばんに入れたはずの財布はなくなった。","Kaban ni ireta hazu no saifu wanaku natta.","Cái ví tiền chắc chắn đã nhét vào cặp biến mất rồi.",94
+
+234,"彼は大学に合格するはずがない。","Kare wa daigaku ni gōkaku suru hazu ga nai.","Nó chắc chắn không thể nào đậu đại học được.",95
+
+235,"あきらめずに最後まで頑張って","Akiramezu ni saigomade ganbatte","Hãy cố tới cùng mà không bỏ cuộc giữa chừng",96
+236,"説明をよく読まずに薬を使っている人が多いようです。","Setsumei o yoku yomazu ni kusuri o tsukatte iru hito ga ōi yōdesu.","Có vẻ có nhiều người uống thuốc mà không xem kỹ hướng dẫn.",96
+
+237,"朝ごはんを食べないで学校へ行く","Asa gohan o tabenaide gakkō e iku","Đi học mà không ăn sáng",97
+238,"お金を持たないで出かける","Okane o motanaide dekakeru","Ra ngoài không mang theo tiền",97
+239,"彼女は一生結婚しないで独身をとおした。","Kanojo wa isshō kekkon shinaide dokushin o tōshita.","Cô ấy sống cả đời độc thân không hết hôn.",97
+
+240,"来られるかどうかを教えて","Korareru ka dō ka o oshiete","Hãy cho tôi biết bạn có tới được không",98
+241,"明日テストがあるかどうか知っていますか。","Ashita tesuto ga aru ka dō ka shitte imasu ka.","Bạn có biết ngày mai có kiểm tra không?",98
+
+242,"山田という人","Yamada toiu hito","người có tên là Yamada",99
+243,"看護士という仕事","kangoshi toiu shigoto","công việc được gọi là y tá",99
+244,"国を国際化しようという主張","Kuni o kokusai-ka shiyou to iu shuchō","chủ trương hãy quốc tế hóa đất nước",99
+
+245,"このペンはとても書きやすい。","Kono pen wa totemo kaki yasui.","Cây bút này rất dễ viết.",100
+246,"かたかなの「シ」と「ツ」は間違えやすいので気をつけてください。","Kata ka na no `shi' to `tsu' wa machigae yasuinode kiwotsukete kudasai.","Vì「シ」 và「ツ」 trong chữ Katakana dễ nhầm, nên hãy cẩn thận.",100
+
+247,"漢字は書きにくいです。","Kanji wa kaki nikuidesu.","Chữ kanji rất khó viết.",101
+248,"人前でちょっと話しにくい内容なのです。","Hitomae de chotto hanashinikui naiyōna nodesu.","Đây là một nội dung hơi khó nói trước mặt người khác.",101
+
+249,"机の上に本が置いてある。","Tsukue no ue ni hon ga oitearu.","Trên bàn có cuốn sách",102
+250,"冷蔵庫に果物が入れてある。","Reizōko ni kudamono ga irete aru.","Trong tủ lạnh có trái cây.",102
+
+251,"9時から1０時までの間に一度電話を下さい。","9-ji kara 10-ji made no aida ni ichido denwa o kudasai.","Xin hãy gọi điện thoại cho tôi một lần trong khoảng từ 9 giờ đến 10 giờ.",103
+252,"家族がみんな寝ている間に家を出ることにした。","Kazoku ga min'na nete iru aida ni ie o deru koto ni shita.","Tôi quyết định ra khỏi nhà trong khi mọi người trong gia đình còn ngủ..",103
+
+253,"部屋をきれいにする","Heya o kirei ni suru","làm cho phòng sạch đẹp.",104
+254,"音を小さくする","Oto o chīsaku suru","chỉnh âm thanh nhỏ lại",104
+
+255,"両親にいつまでも元気で長生きしてほしい。","Ryōshin ni itsu made mo genkide nagaiki shite hoshī.","Tôi muốn cha mẹ lúc nào cũng khỏe mạnh và sống thọ.",105
+256,"この展覧会にたくさんの人に来て欲しい。","Kono tenran-kai ni takusan no hito ni kite hoshī.","Tôi muốn nhiều người tới triển lãm này.",105
+
+257,"先生にお願いしたところ、早速承諾の返事をいただいた。","Sensei ni onegai shita tokoro, sassoku shōdaku no henji o itadaita.","Khi tôi ngỏ ý nhờ thầy thì được thầy chấp thuận ngay",106
+258,"食事をしたところ、お腹が痛くなりました。","Shokuji o shita tokoro, onaka ga itaku narimashita.","Vừa ăn cơm thì bị đau bụng.",106
+
+259,"これからあまい物を食べないことにする。","Korekara amai mono wa tabenai koto ni suru.","Tôi quyết định từ giờ sẽ không ăn đồ ngọt.",107
+260,"明日からジョギングすることにした。","Ashita kara jogingu suru koto ni shita.","Tôi quyết định sẽ chạy bộ từ ngày mai.",107
+
+261,"休むとき学校に連絡しなければならないことになっています。","Yasumu toki gakkō ni renraku shinakereba naranai koto ni natte imasu.","Theo quy định, khi nào nghỉ học phải báo cho nhà trường biết.",108
+262,"明日から制服を着ることとなっている。","Ashita kara seifuku o kiru koto to natte iru.","Từ ngày mai bắt buộc phải mặc đồng phục.",108
+
+263,"私の言う通りに書いてください。","Watashi no iu tōri ni kaite kudasai.","Hãy viết theo đúng như tôi sẽ nói.",109
+264,"説明書のとおりに、組み立てた。","Setsumeisho no tōri ni, kumitateta.","Tôi đã lắp ráp đúng theo giấy hướng dẫn.",109
+
+265,"出かけたところに雨が降り出した。","Dekaketa tokoro ni ame ga furidashita.","Đúng lúc vừa đi ra ngoài thì trời đổ mưa.",110
+266,"寝ているところへ電話がかかった","Nete iru tokoro e denwa ga kakatta","Đúng lúc đang ngủ thì điện thoại kêu",110
+
+267,"家を買うために朝から晩まで働く。","Ie o kau tame ni asa kara ban made hataraku.","Làm việc từ sáng đến tối để mua nhà",111
+268,"健康のために野菜をたくさん食べます。","Kenkō no tame ni yasai o takusan tabemasu.","Tôi ăn nhiều rau vì sức khỏe",111
+269,"外国語を習うためにこれまでずいぶん時間とお金を使った。","Gaikoku-go o narau tame ni kore made zuibun jikan to okane o tsukatta.","Tôi tốn nhiều thời gian và tiền để học ngoại ngữ.",111
+
+270,"雨天の場合は遅延します。","Uten no baai wa chien shimasu.","Trường hợp trời mưa thì sẽ hoãn.",112
+271,"火事の場合は、１１４をかけます。","Kaji no baai wa, 114 o kakemasu.","Trong trường hợp xảy ra hỏa hoạn thì gọi 114.",112
+
+272,"風邪を引いたからゆっくり休んだほうがいいよ。","Kaze o hiitakara yukkuri yasunda hō ga ī yo.","Vì đã bị cảm nên bạn nên từ từ nghỉ ngơi đi.",113
+
+273,"酒をあまり飲まないほうがいい。","Sake o amari nomanai hō ga ī.","Không nên uống nhiều rượu.",114
+
+274,"どうしたんですか？元気がありませんね。","Dō shita ndesu ka? Genki ga arimasen ne.","Bạn bị sao vậy? Nhìn không khỏe nhỉ.",115
+275,"ちょっとかぜなんです。","Chotto kazenan desu.","Tôi hơi cảm.",115
+276,"医者に行ったんですか。","Isha ni ittan desu ka?","Bạn đi bác sỹ chưa?",115
+277,"何を言ったのですか。","Nani o itta no desu ka?","Anh nói gì vậy?",115
+
+278,"太郎、遊びすぎですよ。","Tarō, asobi-sugidesu yo.","Tarou, chơi nhiều quá đấy.",116
+279,"夕べ刺身をたべすぎた。","Yūbe sashimi o tabe sugita.","Tối qua tôi ăn quá nhiều sashimi.",116
+280,"飲みすぎにはこの薬がいいそうだ。","Nomi-sugi ni wa kono kusuri ga ī-sōda.","Nghe nói loại thuốc này rất công hiệu mỗi khi quá chén.",116
+
+281,"バイクに乗れるようになった。","Baiku ni noreru yō ni natta.","Tôi đã biết đi xe máy.",117
+282,"日本語を勉強しているから、だんだん新聞が読めるようになりました。","Nihongo o benkyō shite irukara, dandan shinbun ga yomeru yō ni narimashita.","Vì học tiếng Nhật nên dần dần tôi đã có thể đọc báo rồi ạ.",117
+
+283,"非難されたから彼は黙るようになった。","Hinan sa retakara kare wa damaru yō ni natta.","Do bị phê phán nên cậu ấy đã trở nên im lặng.",118
+284,"彼はタバコを吸うようになった。","Kare wa tabakowosuu-yō ni natta.","Anh ấy đã bắt đầu hút thuốc.",118
+
+285,"簡単な言葉を使って、子供も分かるようにした。",,"Tôi dùng từ ngữ đơn giản để trẻ em cũng hiểu.",119
+286,"油ものを控えて太らないようにしている。","Abura mono o hikaete futoranai yō ni shite iru.","Tôi đang cố gắng kiềm chế đồ ăn dầu mỡ sao cho không mập lên.",119
